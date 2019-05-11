@@ -1,2 +1,1 @@
-#HappyMongo web application
-#Application based on struts framework
+#Web AR & VR
